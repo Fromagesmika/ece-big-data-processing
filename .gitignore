@@ -1,3 +1,4 @@
 *.parquet
 .ipynb_checkpoints/
 lab_sparksql_and_dataframes.ipynb
+taxi_zone_lookup.csv
