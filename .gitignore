@@ -5,3 +5,7 @@ taxi_zone_lookup.csv
 .venv/
 __pycache__/
 *.pyc
+
+# Kubernetes lab secrets
+lab-07-kubernetes-configmap-secret/secret-ceph-credentials.yaml
+lab-07-kubernetes-configmap-secret/s3-credentials.txt
